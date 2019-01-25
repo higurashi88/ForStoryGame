@@ -1,0 +1,2 @@
+Name	bbb		sky
+Name	ddd		stone
